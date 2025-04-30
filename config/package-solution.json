@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "dms-admin-client-side-solution",
+    "name": "edc-admin-client-side-solution",
     "id": "f1c5454f-2a16-441e-8682-f805de61ae49",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
@@ -16,10 +16,10 @@
     },
     "metadata": {
       "shortDescription": {
-        "default": "dms-admin description"
+        "default": "edc-admin description"
       },
       "longDescription": {
-        "default": "dms-admin description"
+        "default": "edc-admin description"
       },
       "screenshotPaths": [],
       "videoUrl": "",
@@ -27,8 +27,8 @@
     },
     "features": [
       {
-        "title": "dms-admin Feature",
-        "description": "The feature that activates elements of the dms-admin solution.",
+        "title": "edc-admin Feature",
+        "description": "The feature that activates elements of the edc-admin solution.",
         "id": "a914674e-c84a-4d78-b023-db36a2a89673",
         "version": "1.0.0.0"
       }
@@ -46,7 +46,7 @@
       ]
   },
   "paths": {
-    "zippedPackage": "solution/dms-admin.sppkg"
+    "zippedPackage": "solution/EDC-admin.sppkg"
   }
 
 }

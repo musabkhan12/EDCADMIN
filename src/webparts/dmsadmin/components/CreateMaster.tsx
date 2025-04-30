@@ -210,7 +210,7 @@ const Basic: React.FC<BasicFormProps> = ({
     }
 
     const onSuccess=(jobTitle:any)=>{
-        Swal.fire(`${jobTitle} is creating, This will reflect shortly in DMS`,"", "success");
+        Swal.fire(`${jobTitle} is creating, This will reflect shortly in EDC`,"", "success");
     }
 
     const updateValue=(jobTitle:any)=>{

@@ -358,7 +358,7 @@ const [refresh,setRefresh]=React.useState(false);
         <div className={styles.argform}>
                 <div className='row'>
                   <div className='col-sm-7 pt-0'>
-          <div className='page-title fw-bold mb-1 font-20'>Mapped Entity</div>
+          <div className='page-title fw-bold mb-1 font-20'>Mapped Department</div>
            </div>
            <div className='col-sm-5 pt-0'>
             <div className='padd-right1 mt-0'>
